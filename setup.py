@@ -7,6 +7,5 @@ setup(
     author="Enes Arslan",
     author_email="arslanenes515@gmail.com",
     description="A simple Python helper package for commont tasks in projects and competitions.",
-    packages=["arslan"],
     install_requires=["seaborn"],
 )
